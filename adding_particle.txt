@@ -1,0 +1,15 @@
+svelte-particles
+
+https://github.com/matteobruni/tsparticles/blob/main/components/svelte/README.md
+
+---
+try to add 
+color small rectangle firework while deploying 
+in vercel
+---
+but this , what i find small time so far
+
+---
+lets try this
+
+npm install svelte-particles
